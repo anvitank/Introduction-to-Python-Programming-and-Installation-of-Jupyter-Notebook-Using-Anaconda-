@@ -89,9 +89,9 @@ for data science and machine learning.
 
 ## **Python IDEs**
 
-  -----------------------------------------------------------------------
+  
   **IDE**                  **Description**
-  ------------------------ ----------------------------------------------
+ 
   IDLE                     Basic Python IDE
 
   Spyder                   Scientific Python IDE (Anaconda)
@@ -101,8 +101,7 @@ for data science and machine learning.
   VS Code                  Lightweight code editor
 
   Jupyter Notebook         Interactive EDA environment
-  -----------------------------------------------------------------------
-
+ 
 ### **Google Colab**
 
 Google Colab is a cloud-based Python environment provided by Google.
