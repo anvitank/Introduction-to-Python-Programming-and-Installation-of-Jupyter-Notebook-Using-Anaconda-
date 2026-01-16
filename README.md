@@ -54,6 +54,7 @@ for data science and machine learning.
 -   Suitable for beginners and professionals
 
 **Why python?**
+
 ![pic1](https://github.com/user-attachments/assets/e9199d13-deff-4868-828b-cbd54a146e54)
 ![pic2](https://github.com/user-attachments/assets/c421c0f7-6bcb-49fc-963d-644b4a0b74b3)
 ## Why Jupyter NoteBook?
