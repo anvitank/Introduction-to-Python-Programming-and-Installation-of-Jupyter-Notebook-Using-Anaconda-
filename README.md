@@ -1,10 +1,10 @@
-**Experiment--1**
+# **Experiment--1**
 
-**Name: Anvi Singh Tank**
+## **Name: Anvi Singh Tank**
 
-**PRN: 25070123019**
+## **PRN: 25070123019**
 
-**Batch: ENTC A1**
+## **Batch: ENTC A1**
 
 **Title**
 
@@ -90,17 +90,17 @@ for data science and machine learning.
 ## **Python IDEs**
 
   
-  **IDE**                  **Description**
+  **IDE** | **Description**
  
-  IDLE                     Basic Python IDE
+  IDLE | Basic Python IDE
 
-  Spyder                   Scientific Python IDE (Anaconda)
+  Spyder | Scientific Python IDE (Anaconda)
 
-  PyCharm                  Professional Python IDE
+  PyCharm | Professional Python IDE
 
-  VS Code                  Lightweight code editor
+  VS Code | Lightweight code editor
 
-  Jupyter Notebook         Interactive EDA environment
+  Jupyter Notebook | Interactive EDA environment
  
 ### **Google Colab**
 
